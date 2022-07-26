@@ -1,0 +1,28 @@
+{
+  "name": "@apollofi/token",
+  "version": "1.0.0",
+  "description": "ApolloFi token contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollofi/token.git"
+  },
+  "keywords": [
+    "ApolloFi",
+    "Token",
+    "Contract",
+    "Solidity"
+  ],
+  "author": "apollofi@apollofi.xyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apollofi/token/issues"
+  },
+  "homepage": "https://github.com/apollofi/token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.3.2"
+  }
+}
